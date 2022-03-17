@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @tomask98
+- 👋 Hi, I’m Tomas 
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning html,css and javascript
+- ✅ web developer (html and css)
+- 🌱 I’m currently learning Javascript, C# and SQL
 
 
 
