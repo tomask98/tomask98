@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomas 
 - 👀 I’m interested in front end
-- ✅ web developer (html and css)
+- ✅ Web design  (html and css)
 - 🌱 I’m currently learning Javascript, C# and SQL
 
 
