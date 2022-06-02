@@ -6,8 +6,7 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiszarahttps&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomask98)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tomask98/tomask98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
