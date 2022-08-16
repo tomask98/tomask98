@@ -3,8 +3,7 @@
 
 - 👋 Hi, I’m Tomas 
 - 👀 I’m interested in front end and software development
-- ✅ Web design  (html and css)
-- 🌱 I’m currently learning Sass,Javascript, C# and SQL
+- 🌱 I’m currently learning Javascript,react , C# and SQL
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomask98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </br>
